@@ -11,6 +11,11 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+
+
+
+
+
 html {
   scroll-behavior: smooth;
 }
@@ -318,6 +323,9 @@ section {
 
 #experience {
   position: relative;
+
+ 
+  
 }
 
 .experience-sub-title {
